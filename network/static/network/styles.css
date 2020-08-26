@@ -1,0 +1,50 @@
+.post{
+    padding: 0.5rem;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 0.05rem;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.timestamp{
+    color: gray;
+    font-size: x-small;
+}
+
+.fa-heart{
+    color: red;
+}
+
+button{
+    background-color: white;
+}
+
+.liked, .likes, .disabled-like{
+    border-width: 0.01rem;
+    margin-top: 0.5rem;
+}
+
+.edit-btn, #save-btn{
+    font-size: x-small;
+    color: #007BFF;
+    border-style: none;
+}
+
+.footer{
+    display: table;
+}
+
+.body{
+    padding: 1rem;
+}
+
+.form-control{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.follow-stats{
+    display: table;
+}
